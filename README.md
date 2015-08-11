@@ -1,7 +1,13 @@
 use selenium to realize a script to sign in sinablog automatically
 
 
+Prepare:
 
-usage:
+	* install python 2.7
+	* install pip
+	* pip install scrapy
+	* pip install selenium
 
-python sign_in.py
+Usage:
+
+	* python sign_in.py
